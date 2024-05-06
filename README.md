@@ -4,4 +4,4 @@
 
 M3U 源：https://raw.githubusercontent.com/zuohuadong/shaanxiunicom-iptv/main/shanxiunicom.m3u    
 
-M3U 代理源（如果上述地址不能访问）：https://ghproxy.com/https://raw.githubusercontent.com/zuohuadong/shaanxiunicom-iptv/main/shanxiunicom.m3u
+M3U 代理源（如果上述地址不能访问）：https://ghproxy.org/https://raw.githubusercontent.com/zuohuadong/shaanxiunicom-iptv/main/shanxiunicom.m3u
